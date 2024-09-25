@@ -1,7 +1,7 @@
 name: flutter_location_bg
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/msilvabo/flutter_location_bg
 
 environment:
   sdk: ^3.5.0
